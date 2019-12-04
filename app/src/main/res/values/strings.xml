@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">All Shoes Product</string>
+    <string name="product_name">Produk</string>
+    <string name="detail">Details</string>
+    <string name="Buy">Buy</string>
+    <string name="product">Product</string>
+    <string name="about">About</string>
+    <string name="product_price">Price</string>
+    <string name="user">User</string>
+    <string name="back">Back</string>
+    <string name="profil">Firman Noor Praadita</string>
+    <string name="tahun">2019</string>
+    <string name="kelas">Dicoding Android Pemula</string>
+    <string name="email">firman.praa@gmail.com</string>
+</resources>
